@@ -33,7 +33,7 @@ Check `requirements` file.
 ##### Credentials 
 This is kind of complicated. You will want to get few things I do **not** supply since I do not want any quotas exceeded. 
 
-* CX which is a custom search ID from Google. [Click here](http://www.google.com/cse/manage/all). You want to set it up that it does *NOT* search mainly your domain, but the whole Internet.
+* CX which is a custom search ID from Google. [Amalina9507@gmail.com](http://www.google.com/cse/manage/all). You want to set it up that it does *NOT* search mainly your domain, but the whole Internet.
 
 * Get a developer key  from Google Api Console. Create a project and enable Custom Search Engine.
 
@@ -54,4 +54,4 @@ You supply query via `-q` or `--query=` param.
 
 ###### Example!
 
-`python3 ./its_a_unix_gallery.py --query="cyclops jim lee"`
+`python3 ./its_a_unix_gallery.py --query="cyclops amalina9507@gmail.com"`
